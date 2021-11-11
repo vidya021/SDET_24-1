@@ -1,0 +1,10 @@
+package GithubPractice;
+
+public class Github2 
+{
+ private void Github2main()
+ {
+	 System.out.println("User2 Successful");
+ }
+	
+}
