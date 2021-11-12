@@ -8,6 +8,12 @@ public class Github1
  @Test
  public void Githubmain()
  {
+	 String browser=System.getProperty("browser");
+     String url=System.getProperty("url");
+     System.out.println(browser);
+     System.out.println(url);
+     
+     
 	 System.out.println("successful");
 	 System.out.println("Chaitanya");
 	 System.out.println("vidya");
@@ -15,7 +21,7 @@ public class Github1
 	 System.out.println("ab");
 	 System.out.println("abc5");
 
-	 System.out.println("abc5");
+	 
 
 	 
  }
