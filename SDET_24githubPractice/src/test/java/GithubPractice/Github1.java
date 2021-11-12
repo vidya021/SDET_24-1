@@ -7,6 +7,6 @@ public class Github1
  @Test
  public void Githubmain()
  {
-	 System.out.println("successful");
+	 System.out.println("success");
  }
 }
