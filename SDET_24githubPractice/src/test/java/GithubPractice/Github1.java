@@ -12,7 +12,6 @@ public class Github1
 	 System.out.println("Chaitanya");
 	 System.out.println("vidya");
 
-	 System.out.println("abcd");
 	 System.out.println("ab");
 	 System.out.println("abc5");
 
