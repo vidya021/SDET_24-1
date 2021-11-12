@@ -1,6 +1,6 @@
 package GithubPractice;
 
-public class Github2 
+public class Github2Test 
 {
  private void Github2main()
  {

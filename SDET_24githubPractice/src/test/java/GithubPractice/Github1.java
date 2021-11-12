@@ -1,5 +1,6 @@
 package GithubPractice;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class Github1 
@@ -8,5 +9,6 @@ public class Github1
  public void Githubmain()
  {
 	 System.out.println("successful");
+	 
  }
 }
